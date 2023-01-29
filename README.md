@@ -720,13 +720,16 @@ Testing the webserver
 
 ## OUTPUT:
 ### Home Page
-![image](images/HomePage.png)
+![HomePage](https://user-images.githubusercontent.com/119477975/215308905-d93e74f9-1415-462a-84a7-9106a22b441d.png)
+
 ### People Page
-![image](images/PeoplePage.png)
+![PeoplePage](https://user-images.githubusercontent.com/119477975/215308923-772f4e1f-c799-4e47-8b1d-7f266709e8ca.png)
+
 ### Product Page
-![image](images/ProductPage.png)
+![ProductPage](https://user-images.githubusercontent.com/119477975/215308934-070122e7-2efc-479b-a172-95d0fe547db6.png)
+
 ### Contact Page
-![image](images/ContactPage.png)
+![ContactPage](https://user-images.githubusercontent.com/119477975/215308945-9066f686-f75f-4a19-b9a9-d07947fe2aa9.png)
 
 ## RESULT:
 The program to develop a website for a software product development company is executed successfully
